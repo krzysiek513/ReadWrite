@@ -6,8 +6,7 @@
     android:layout_height="wrap_content"
     android:padding="10dp"
     android:elevation="4dp"
-    android:background="@color/teal_200"
-    android:id="@+id/recyclerItem">
+    android:background="@color/teal_200">
 
     <ImageView
         android:id="@+id/recIv"
@@ -42,6 +41,7 @@
         app:layout_constraintTop_toBottomOf="@+id/recEt1" />
 
     <Button
+        android:id="@+id/addBtn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="#9F8B8B"
