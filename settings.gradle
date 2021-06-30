@@ -1,0 +1,2 @@
+rootProject.name = "WriteAndReadFirebase"
+include ':app'

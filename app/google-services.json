@@ -1,0 +1,185 @@
+{
+  "project_info": {
+    "project_number": "585379832081",
+    "firebase_url": "https://auth-63cca-default-rtdb.firebaseio.com",
+    "project_id": "auth-63cca",
+    "storage_bucket": "auth-63cca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585379832081:android:58b1ee3d51308c9cb4acb0",
+        "android_client_info": {
+          "package_name": "com.example.grocery5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585379832081-i7pe78p256ps43naj0a9eg9oqot2rdej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzf8SpVM1To9d9ubAb-0yXi7x1ZA6t18I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585379832081-i7pe78p256ps43naj0a9eg9oqot2rdej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585379832081:android:3cec7a70d306bc30b4acb0",
+        "android_client_info": {
+          "package_name": "pl.studia.authapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585379832081-i7pe78p256ps43naj0a9eg9oqot2rdej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzf8SpVM1To9d9ubAb-0yXi7x1ZA6t18I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585379832081-i7pe78p256ps43naj0a9eg9oqot2rdej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585379832081:android:2558fc11859938dab4acb0",
+        "android_client_info": {
+          "package_name": "pl.studia.firebasestoregedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585379832081-i7pe78p256ps43naj0a9eg9oqot2rdej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzf8SpVM1To9d9ubAb-0yXi7x1ZA6t18I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585379832081-i7pe78p256ps43naj0a9eg9oqot2rdej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585379832081:android:a06f528c0762f31fb4acb0",
+        "android_client_info": {
+          "package_name": "pl.studia.grocery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585379832081-i7pe78p256ps43naj0a9eg9oqot2rdej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzf8SpVM1To9d9ubAb-0yXi7x1ZA6t18I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585379832081-i7pe78p256ps43naj0a9eg9oqot2rdej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585379832081:android:d740f2b3d4a3cf90b4acb0",
+        "android_client_info": {
+          "package_name": "pl.studia.various"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585379832081-i7pe78p256ps43naj0a9eg9oqot2rdej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzf8SpVM1To9d9ubAb-0yXi7x1ZA6t18I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585379832081-i7pe78p256ps43naj0a9eg9oqot2rdej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585379832081:android:104680c21796ff60b4acb0",
+        "android_client_info": {
+          "package_name": "pl.studia.writeandreadfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585379832081-i7pe78p256ps43naj0a9eg9oqot2rdej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzf8SpVM1To9d9ubAb-0yXi7x1ZA6t18I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585379832081-i7pe78p256ps43naj0a9eg9oqot2rdej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
